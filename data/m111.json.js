@@ -1,0 +1,1 @@
+window.repositoryObject = {"tables_custom_fields":[],"tables":[],"views_custom_fields":[],"views":[],"procedures_custom_fields":[],"procedures":[],"functions_custom_fields":[],"functions":[],"structures_custom_fields":[],"structures":[],"object_id":"m111","name":"销售管理","description":null,"summary":[],"erd":null};
