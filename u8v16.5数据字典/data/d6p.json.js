@@ -1,1 +1,0 @@
-window.repositoryObject = {"title_prefix":null,"custom_fields":[],"procedures":[{"id":"p4179","name":"Usp_BO_ExpandByParent","type":"PROCEDURE","subtype":"PROCEDURE","is_user_defined":false,"custom_fields":{"Sample field: Status":{"value":"","type":"LIST_CLOSED"}}}],"object_id":"d6p"};
